@@ -7,8 +7,15 @@ The purpose of this analysis is to determine if there is bias in 5-star reviews 
 
 For this analysis I divided the data into two DataFrames, one for reviews that were part of the Vine Paid program, and one for all non-Vine reviews:
 
-![Vine_Paid_Reviews]()
-![Vine_Unpaid_Reviews]()
+Vine Paid Reviews
+
+![Vine_Paid_Reviews](https://github.com/nikkiheaston/Amazon_Vine_Analysis/blob/main/Vine_Paid_Reviews.PNG)
+
+Vine Unpaid Reviews
+
+![Vine_Unpaid_Reviews](https://github.com/nikkiheaston/Amazon_Vine_Analysis/blob/main/Vine_Unpaid_Reviews.PNG)
+
+
 - This analysis revealed that there were 170 Vine reviews and 37,840 non-Vine reviews.
 - The number of Vine reviews that contained 5 stars was 65. And the number of non-Vine reviews that contained 5 stars was 20,612.
 - The percentage of Vine reviews that were 5 stars was approximately 38% and the number of non-vine reviews that were 5 stars was approximately 55%.
