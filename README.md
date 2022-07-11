@@ -1,4 +1,4 @@
-# Amazon_Vine_Analysis
+# Amazon Vine Analysis
 
 ## Purpose
 The purpose of this analysis is to determine if there is bias in 5-star reviews of Amazon Pet Products that are part of the Vine Paid Program. 
